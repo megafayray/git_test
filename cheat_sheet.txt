@@ -23,6 +23,13 @@ THEN:
 --> git commit -m "Add name.ext" (enter your descriptive commit message here)
 --->git status ("nothing to commit"/"upstream gone"
 
+FINALLY:
+- Push to GitHub repository
+--> git push
+--> git status ("Your branch is up to date with ‘origin/main' [...])
+
+When you refresh your repository page on GitHub you should see the new/updated
+files!
 ________________________________________________________________
 
 //Important commands:
