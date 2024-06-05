@@ -10,14 +10,16 @@
 --> git add name.ext
 ---> git status (green aka staged, not committed)
 
---> git commit -m "Add name.ext"
+--> git commit -m "Add name.ext" (enter your descriptive commit message here)
 --->git status ("nothing to commit"/"upstream gone"
 
 ________________________________________________________________
 
 //To edit an existing file:
 
--
+- code name.txt (opens file in Code) 
+OR
+- open name.txt (opens in notepad)
 
 ________________________________________________________________
 
@@ -31,4 +33,4 @@ repos folder)
 - pwd (print working directory)
 - touch (create a file within the working directory) ex1. touch name.txt
 - open (open a file) ex1. open name.txt
-- code (open VS Code)
+- code (open VS Code) ex1. code name.txt (opens a given file in VS Code)
