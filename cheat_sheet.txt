@@ -21,6 +21,9 @@ THEN:
 ---> git status (green aka staged, not committed)
 
 --> git commit -m "Add name.ext" (enter your descriptive commit message here)
+	OR
+--> git commit "Add name.ext" (to add commit message in VS Code)
+	THEN
 --->git status ("nothing to commit"/"upstream gone"
 
 FINALLY:
