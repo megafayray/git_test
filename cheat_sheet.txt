@@ -1,25 +1,27 @@
-// To create a new file and save to GitHub:
+// To create a new file or edit an existing one and save to GitHub:
 
 - Navigate to the repository that is linked to GitHub
 --> cd repos/git_test
 
+A)
 - Create the new file
 --> touch name.ext
 ---> git status (red aka not staged)
 
+OR
+
+B)
+- Open an existing file
+--> - code name.txt (opens file in Code) 
+	OR
+--> open name.txt (opens in notepad)
+
+THEN:
 --> git add name.ext
 ---> git status (green aka staged, not committed)
 
 --> git commit -m "Add name.ext" (enter your descriptive commit message here)
 --->git status ("nothing to commit"/"upstream gone"
-
-________________________________________________________________
-
-//To edit an existing file:
-
-- code name.txt (opens file in Code) 
-OR
-- open name.txt (opens in notepad)
 
 ________________________________________________________________
 
