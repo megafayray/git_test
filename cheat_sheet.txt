@@ -1,0 +1,34 @@
+// To create a new file and save to GitHub:
+
+- Navigate to the repository that is linked to GitHub
+--> cd repos/git_test
+
+- Create the new file
+--> touch name.ext
+---> git status (red aka not staged)
+
+--> git add name.ext
+---> git status (green aka staged, not committed)
+
+--> git commit -m "Add name.ext"
+--->git status ("nothing to commit"/"upstream gone"
+
+________________________________________________________________
+
+//To edit an existing file:
+
+-
+
+________________________________________________________________
+
+//Important commands:
+*Capitalization matters! Include file extensions!
+
+- cd (change directory) ex1. cd (go to the root); ex2. cd repos (go to the
+repos folder)
+- ls (look at the things in the directory you're in)
+- mkdir (make directory)
+- pwd (print working directory)
+- touch (create a file within the working directory) ex1. touch name.txt
+- open (open a file) ex1. open name.txt
+- code (open VS Code)
