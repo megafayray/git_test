@@ -38,6 +38,8 @@ ________________________________________________________________
 //Important commands:
 *Capitalization matters! Include file extensions!
 
+- mv (move file from one place to another); ex1. mv old/path new/path ex2. mv /home/vboxuser/Downloads/charlesdeluvio-Mv9hjnEUHR4-unsplash.jpg /home/vboxuser/repos/git_test/html-boilerplate/images/
+- mv (rename); ex. mv old_name.txt new_name.txt
 - cd (change directory) ex1. cd (go to the root); ex2. cd repos (go to the
 repos folder)
 - ls (look at the things in the directory you're in)
@@ -46,3 +48,4 @@ repos folder)
 - touch (create a file within the working directory) ex1. touch name.txt
 - open (open a file) ex1. open name.txt
 - code (open VS Code) ex1. code name.txt (opens a given file in VS Code)
+- google-chrome (opens Chrome) ex1. google-chrome index.html
